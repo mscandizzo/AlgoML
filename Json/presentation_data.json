@@ -1,0 +1,51 @@
+{
+    "name": "Mariano Scandizzo",
+    "netlify_subdomain": "http://algoml.com/",
+    "optional_dns": "http://algoml.com/",
+    "blog_post_1": {
+        "title": "Find you way around using Git & Github",
+        "url": "https://medium.com/@mariano.scandizzo/find-you-way-around-using-git-github-f30e9efa274b",
+        "keywords": [
+            "Git",
+            "Github",
+            "Repository"
+        ]
+    },
+    "blog_post_2": {
+        "title": "Machine Learning for Financial Analysis",
+        "url": "https://medium.com/@mariano.scandizzo/machine-learning-for-financial-analysis-d39a8ec41a7a",
+        "keywords": [
+            "Financial Analysis",
+            "Machine Learning",
+            "Simulation"
+        ]
+    },
+    "blog_post_3": {
+        "title": "<TITLE3>",
+        "url": "<MEDIUM OR WEB URL>",
+        "keywords": [
+            "<KWD1>",
+            "<KWD2>",
+            "<KWD3>"
+        ]
+    },
+    "my_linkedin": "https://www.linkedin.com/in/marianoscandizzo/",
+    "latex": "\\begin{bmatrix}
+                        9 & 9 \\
+                        6 & 10 \\
+                        5 & 7
+                    \\end{bmatrix}
+                    =
+                    \\begin{bmatrix}
+                    1 & 0 & 1 \\
+                    0 & 1 & 1 \\
+                    0 & 0 & 1
+                    \\end{bmatrix}
+                    \\cdot
+                    \\begin{bmatrix}
+                        4 & 2 \\
+                        1 & 3 \\
+                        5 & 7
+                    \\end{bmatrix}
+                "
+                }
